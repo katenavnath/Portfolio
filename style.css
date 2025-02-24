@@ -394,6 +394,7 @@ button:nth-child(2):hover{
     display: grid;
     grid-template-columns: 5fr 7fr;
     height: 600px;
+    width: auto;
     background: linear-gradient(#262525,#5db9ee);
 
 }
